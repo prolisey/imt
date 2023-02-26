@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('https://forum.redage.net/uploads/monthly_2020_08/12412412412412412412412.jpg.68d4a51142643d1e8fbd5d4179a5574b.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .imt {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30%;
+    border: 1px solid rgba(255, 255, 255, 1);
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  input {
+    font-size:20px;
+    border-radius: 5px;
+  }
+  
+  button {
+    height: 40px;
+    font-size: 20px;
+  }
